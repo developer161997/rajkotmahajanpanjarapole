@@ -310,26 +310,6 @@ try {
                                                             style=\"margin:0px;padding:0px;box-sizing:border-box;font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,&quot;Segoe UI Symbol&quot;;width:100%;color:rgb(116,116,116)\">
                                                             
                                                         </table>
-                                                        <table
-                                                            style=\"margin:0px;padding:0px;box-sizing:border-box;font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,&quot;Segoe UI Symbol&quot;;width:100%;color:black\">
-                                                            <tbody
-                                                                style=\"font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,&quot;Segoe UI Symbol&quot;\">
-                                                                <tr style=\"margin:0px;padding:0px;font-family:Helvetica,Arial,sans-serif\">
-                                                                    <td
-                                                                        style=\"margin:0px;box-sizing:border-box;font-family:Helvetica,Arial,sans-serif;padding:25px 0px 30px;text-align:left\">
-                                                                        <p
-                                                                            style=\"margin:0px 0px 10px;padding:0px;box-sizing:border-box;font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,&quot;Segoe UI Symbol&quot;;text-align:left;font-weight:normal;font-size:14px;line-height:1.6\">
-                                                                            HARE KRISHNA</p>
-                                                                        <p
-                                                                            style=\"margin:0px 0px 10px;padding:0px;box-sizing:border-box;font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Roboto,Helvetica,Arial,sans-serif,&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,&quot;Segoe UI Symbol&quot;;text-align:left;font-weight:normal;font-size:14px;line-height:1.6\">
-                                                                            Designed & Developed</p>
-                                                                        <p
-                                                                            style=\"margin:0px 0px 10px;padding:0px;box-sizing:border-box;text-align:left;font-size:14px;line-height:1.6;font-family:&quot;Comic Sans MS&quot;,Textile,cursive;font-weight:bold\">
-                                                                            Miss. SWETA PATEL!</p>
-                                                                    </td>
-                                                                </tr>
-                                                            </tbody>
-                                                        </table>
                                                     </td>
                                                     <td
                                                         style=\"margin:0px;padding:34px 0px 0px;box-sizing:border-box;font-family:Helvetica,Arial,sans-serif;text-align:center;width:41px\">
